@@ -1,1 +1,2 @@
 Testing GIT commands
+New feature being implemented in new branch1
